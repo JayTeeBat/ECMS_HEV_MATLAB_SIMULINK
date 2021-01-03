@@ -12,7 +12,7 @@ dw_ice=x(2);  % Angular Acceleration for ICE
 T_req=x(3);   % Troque Request or demand
 lambda=x(4);  % Equivalence Factor
 
-%% Data of Wheel and Gearbox
+%% Fuel and Air Parameters
 H_l= 44.6e6; % Lower Heating Value [J/kg]
 roha_petrol=732.2; % Fuel Density [Kg/m3]
 roha_air=1.18; % Air Density [kg/m3] 
