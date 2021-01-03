@@ -17,7 +17,7 @@ H_l= 44.6e6; % Lower Heating Value [J/kg]
 roha_petrol=732.2; % Fuel Density [Kg/m3]
 roha_air=1.18; % Air Density [kg/m3] 
 
-%% Engine Parameters
+%% Engine Configuration
 J_e=0.2; % Engine Inertia [kgm2]
 T_ice_max= 115; % Engine Maximum Torque [Nm]
 V_d=1.497e-3; % Engine Displacment [m3]
@@ -36,7 +36,7 @@ I_min=-200; % Maximum dis-/charging current [A]
 R_i= 0.65; % Inner resistance [ohm]
 m_batt= 45; % [kg]
   
-%% Motor and Generator
+%% Motor and Generator Configuration
 n_machine=0.9; % Efficiency of electrical machine
 T_em_max=400; % Maximum Electric machine Torque [Nm]
 P_em_max=50; % Power of Electric Machine [kW]
@@ -45,7 +45,7 @@ m_em=1.5; %  Electric motor weight [kg/Kw]
 %% TotalPowertrain Power
 P_total_max=90.8; % Total powertrain power[kW]
   
-%% Model Parameters
+%% Logitudinal Vehicle Model Parameters
 g=9.81;  %  Gravity [m/s2]
 c_D=0.32; % Drag coefficient [-]
 c_R=0.015; % Rolling resistance coefficient [-]
@@ -60,6 +60,8 @@ n_gearbox=0.98;  % Efficiency of Transmission
 N_e= 0:800:5000; % Engine RPM range
 w_e= 300; % [rad/s2] % Maximum accelration of the engine
 
+
+%-----------------------Cost Vector Calculations--------------------------%
 %% Battery Model
 
 I=linspace(I_min,I_max,50000);
@@ -81,7 +83,7 @@ x=((p_me_0*V_d)/(4*pi));  % First Part to calculate Fuel consumption
 
 y=J_e*dw_ice; % Second Part to calculate Fuel consumption
 
-costVector=(w_ice/(e*H_l))*(T_ice+x+y); % Fuel Consumption
+costVector=(w_ice/(e*H_l))*(T_ice+x+y); % Fuel Consumption Cost Vector for given t_vec
 
 
 %% Hamiltonian Calculation [Torque Split]
