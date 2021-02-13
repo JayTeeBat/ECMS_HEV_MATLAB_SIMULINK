@@ -14,7 +14,7 @@ Run the file 'HEV_ECMS.mdl'.
 # Problem specific scrips and functions
  =====================================
  init_HEV_ECMS.m    - Initialize data
- parallelhybrid_ECMS.py - Torque Split function file
+ parallelhybrid_ECMS.m - Torque Split function file
 
 (C) 2020 Ruchit Bhikadiya
  
