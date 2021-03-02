@@ -26,6 +26,8 @@ data.effi_motor=0.9;
 %...
 data.dt=1;
 
+% Initial State of Charge
+data.inSOC = 0.5;
   
   
   
