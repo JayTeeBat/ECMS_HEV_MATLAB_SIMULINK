@@ -4,6 +4,7 @@
 
 clear data
 global data
+PWT = "HEV";
 %Engine
 data.J_e=0.2;
 data.V_d=1.497/1000;

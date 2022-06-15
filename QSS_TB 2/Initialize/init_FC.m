@@ -14,12 +14,13 @@
 
 % Air 
 % ---
+    
     T_air           = T_air + 273.15;                                                       %                                           [°C] -> [K]
     kappa_air       = 1.4;                                                                  % Isentropic exponent                       [-]
     R_air     		= 287;                                                                  % Gas constant                              [J/(mol*K)]
     cp_air          = kappa_air/(kappa_air-1)*R_air;                                        % Specific heat                             [J/(mol*K)]
     M_air           = 29.0;                                                                 % Molecular weight                          [kg/kmol]    
-    delta_h_C_air 	= cp_air*T_air/eta_C*(pi_C^((kappa_air-1)/kappa_air)-1);                % Enthalpy difference                       [J]
+    % delta_h_C_air 	= cp_air*T_air/eta_C*(pi_C^((kappa_air-1)/kappa_air)-1);                % Enthalpy difference                       [J]
     
 % Fuel (hydrogen)
 % ---------------
