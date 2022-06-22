@@ -30,20 +30,36 @@ task.nbbase=1800;           % baseline number of buffer cells
 task.xfcmin=0.5;            % min fuel cell scale
 task.xfcmax=3.5;            % max fuel cell scale 
 task.xbmin=0.01;            % min buffer scale
-task.xbmax=2;               % max buffer scale
-task.socmin=0.3;            % min buffer SOC
-task.socmax=0.7;            % max buffer SOC
+task.xbmax=10;               % max buffer scale
+task.socmin=0.2;            % min buffer SOC
+task.socmax=0.8;            % max buffer SOC
+batreps = 0:5;
 task.batrep=1;              % number of battery replacements within the bus' service period
 task.useSOHmodel=true;      % if false, the SOH model is neglected. Make sure to put task.batrep=0, as there is no reason to replace the battery when SOH model is neglected.
 
-init;                       % read remaining data
-prethreatdata;              % preprocess data
-tic;
-res=cvxsolvesizing(task); T=toc;
-fprintf('%s: cost=%1.2f EUR/100km, fuel cell scale=%1.2f, buffer scale=%1.2f, SOHfinal=%1.4f %%, t=%1.2f s\n', ...
-    res.status,res.cost,res.xfc,res.xb,res.soh(end)*100,T);
+results = struct();
+i=1;
+for i=1:length(batreps)
+    task.batrep = batreps(i);
 
-plotdata;
+    init;                       % read remaining data
+    prethreatdata;              % preprocess data
+
+    % solving
+    tic;
+    res=cvxsolvesizing(task); T=toc;
+
+    % displaying results
+    fprintf('%s: cost=%1.2f EUR/100km, fuel cell scale=%1.2f, buffer scale=%1.2f, SOHfinal=%1.4f %%, t=%1.2f s\n', ...
+        res.status,res.cost,res.xfc,res.xb,res.soh(end)*100,T);
+    if i>1
+        results(i) = res;
+    else 
+        results = res;
+    end
+end
+
+% plotdata;
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

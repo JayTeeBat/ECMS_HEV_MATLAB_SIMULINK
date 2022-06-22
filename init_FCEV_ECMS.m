@@ -16,8 +16,9 @@ data.Hlhv   = 44.6*1000000;
 data.rho_f  = 737.2;
 data.e=0.4;
 data.p_me_0=0.1e6;
-A_FC = 250;
-N_FC = 250;
+FC_P_max = 50000; % [W]
+FC_OCV = 350; % [V]
+FC_data = Fuel_Cell_setup(350, 50000);
 T_air = 25;
 init_FC
 

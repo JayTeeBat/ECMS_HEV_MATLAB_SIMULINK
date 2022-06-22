@@ -1,0 +1,1476 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Files>
+        <File path=".gitattributes" value="d53a431e"/>
+        <File path=".gitignore" value="9b424e62"/>
+        <File path=".gitmodules" value="cb08e819"/>
+        <File path="00 - Models/05 - Cooling systems/BTMS.slx" value="9b16057d"/>
+        <File path="00 - Models/05 - Cooling systems/BTMS_Grayson.png" value="d08bf744"/>
+        <File path="00 - Models/05 - Cooling systems/FCTMS.slx" value="aa0280e9"/>
+        <File path="00 - Models/05 - Cooling systems/FCTMS_Grayson.png" value="fe348b5e"/>
+        <File path="00 - Models/05 - Cooling systems/Thermodynamic_loop.png" value="1ed9042d"/>
+        <File path="00 - Models/05 - Cooling systems/heat_exchanger_schematic.jpg" value="bc92bbe3"/>
+        <File path="00 - Models/05 - Cooling systems" value="-1"/>
+        <File path="00 - Models/Battery_Test_Bench.slxc" value="58697b55"/>
+        <File path="00 - Models/FCBATPWT_10_r22a.slx" value="6af5dbd0"/>
+        <File path="00 - Models/Thermal_System_testing.slx" value="1c0003d0"/>
+        <File path="00 - Models" value="-1"/>
+        <File path="01 - Scripts/Constants_def.m" value="2165f148"/>
+        <File path="01 - Scripts/FCBATPWT_Data.m" value="105b8e20"/>
+        <File path="01 - Scripts/Git-startup.bat" value="81e0effb"/>
+        <File path="01 - Scripts/System_configuration.m" value="9b81913e"/>
+        <File path="01 - Scripts" value="-1"/>
+        <File path="Battery_Pack_Library/.gitattributes" value="d53a431e"/>
+        <File path="Battery_Pack_Library/.gitignore" value="9105d456"/>
+        <File path="Battery_Pack_Library/.gitmodules" value="fa0047d7"/>
+        <File path="Battery_Pack_Library/00 - Scripts/Battery_Module_setup.asv" value="11cc8cbc"/>
+        <File path="Battery_Pack_Library/00 - Scripts/Battery_Module_setup.m" value="3591e645"/>
+        <File path="Battery_Pack_Library/00 - Scripts/Battery_Pack_configuration.m" value="1e1ed567"/>
+        <File path="Battery_Pack_Library/00 - Scripts/Battery_Pack_setup.m" value="bf8b8de6"/>
+        <File path="Battery_Pack_Library/00 - Scripts/Startup.m" value="3fcd53d8"/>
+        <File path="Battery_Pack_Library/00 - Scripts" value="-1"/>
+        <File path="Battery_Pack_Library/01_Module plant library/Module_Plant_12Cells.slx" value="dbf45de9"/>
+        <File path="Battery_Pack_Library/01_Module plant library/Module_Plant_Empty.slx" value="56ee0dd5"/>
+        <File path="Battery_Pack_Library/01_Module plant library/Module_Plant_Single_Cell.slx" value="625081c0"/>
+        <File path="Battery_Pack_Library/01_Module plant library/S4_Cells_stack.slx" value="88fe161e"/>
+        <File path="Battery_Pack_Library/01_Module plant library/Variant_Module_Plant.slx" value="aaf02630"/>
+        <File path="Battery_Pack_Library/01_Module plant library" value="-1"/>
+        <File path="Battery_Pack_Library/02_PDU plant library/BMS2PDU_Cmd.slx" value="d6e9f7b"/>
+        <File path="Battery_Pack_Library/02_PDU plant library/PDU2BMS_Meas.slx" value="977bbf3"/>
+        <File path="Battery_Pack_Library/02_PDU plant library/PDU_Plant_Relays_1.slx" value="9b10639e"/>
+        <File path="Battery_Pack_Library/02_PDU plant library/PDU_plant_Empty.slx" value="5ea3b3f"/>
+        <File path="Battery_Pack_Library/02_PDU plant library/Variant_PDU_Plant.slx" value="6aa2f2f1"/>
+        <File path="Battery_Pack_Library/02_PDU plant library" value="-1"/>
+        <File path="Battery_Pack_Library/03 _Test_Bench/Battery_Test_Bench.slx" value="b631da2f"/>
+        <File path="Battery_Pack_Library/03 _Test_Bench/Constants.m" value="d2a7a268"/>
+        <File path="Battery_Pack_Library/03 _Test_Bench/Test_Configuration.m" value="b4ac35a6"/>
+        <File path="Battery_Pack_Library/03 _Test_Bench/Test_signal.mat" value="ec7f3cb8"/>
+        <File path="Battery_Pack_Library/03 _Test_Bench" value="-1"/>
+        <File path="Battery_Pack_Library/04_Pictures/Battery.png" value="d29bd230"/>
+        <File path="Battery_Pack_Library/04_Pictures/Battery_module.png" value="a3a62057"/>
+        <File path="Battery_Pack_Library/04_Pictures/Gain_left.png" value="ecb76db5"/>
+        <File path="Battery_Pack_Library/04_Pictures/Gain_right.png" value="330f8a51"/>
+        <File path="Battery_Pack_Library/04_Pictures/PDU_BOX.jpg" value="9907005"/>
+        <File path="Battery_Pack_Library/04_Pictures/ZEN35_Pack.png" value="d81c1c61"/>
+        <File path="Battery_Pack_Library/04_Pictures" value="-1"/>
+        <File path="Battery_Pack_Library/BATTERY_Branch.slx" value="868b8b78"/>
+        <File path="Battery_Pack_Library/BatteryPackLibrary.prj" value="fe84b66d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/.gitattributes" value="d53a431e"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/.gitignore" value="d3bcbaf8"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models/00 - Toshiba Cells/SCiBCell6_10Ah.slxp" value="5d01cc75"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models/00 - Toshiba Cells/SCiBCell6_23Ah.slxp" value="c4b0a8b0"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models/00 - Toshiba Cells/SCiBCell_20Ah.slxp" value="d12df427"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models/00 - Toshiba Cells/SCiBCell_20AhHP.slxp" value="2b53c3ae"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models/00 - Toshiba Cells" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/10 - Suppliers models" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/BatteryCellsLibrary.prj" value="fe84b66d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_Plant_ECM_isothermal.slx" value="9f867d35"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_Plant_Empty.slx" value="c2226ecf"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_Test_bench.slxc" value="2e4d61f3"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_Test_bench.slx" value="5d37829e"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_sensor_connector.slx" value="3ac9a9f5"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Cell_setup.m" value="7b417a53"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/SCiBCell6_10Ah_msp.mexw64" value="5f53d35"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/SCiBCell_20Ah_msp.mexw64" value="70543414"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Single_Cell_right.png" value="4fb73018"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Toshiba_Cell.slx" value="b813c464"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/Variant_Cell_plant.slx" value="7eb03af2"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/JLScbO0j4tgjDqFT-pVnY9NWrNod.xml" value="62c45987"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/JLScbO0j4tgjDqFT-pVnY9NWrNop.xml" value="938dc715"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/i_65jQuz-0d1XxGMkhTt5XZOiTkd.xml" value="e16c32ba"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/i_65jQuz-0d1XxGMkhTt5XZOiTkp.xml" value="d2089e16"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/zJ6YGrwF2HAAxl2JXV833cRcyHUd.xml" value="50727024"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/zJ6YGrwF2HAAxl2JXV833cRcyHUp.xml" value="f0794ecd"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/GNMWgYwxGsjRVtgg-sSVd-xXPJc" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/SRpVEkcLxKLND4qbg0uDwP5JXps/GhFoGacJEAxcJLgVD0J6FM3N-qgd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/SRpVEkcLxKLND4qbg0uDwP5JXps/GhFoGacJEAxcJLgVD0J6FM3N-qgp.xml" value="9bd9d47f"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/SRpVEkcLxKLND4qbg0uDwP5JXps/dhCDF-CcOCz6Br0EuQ733WEz1Ewd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/SRpVEkcLxKLND4qbg0uDwP5JXps/dhCDF-CcOCz6Br0EuQ733WEz1Ewp.xml" value="6f4954c2"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/SRpVEkcLxKLND4qbg0uDwP5JXps" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/UWhdiB3W-WPy3xpPn_dcp9BgPkk/vLe5oDJGUFqqvlxDePQu6KoZL1kd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/UWhdiB3W-WPy3xpPn_dcp9BgPkk/vLe5oDJGUFqqvlxDePQu6KoZL1kp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/UWhdiB3W-WPy3xpPn_dcp9BgPkk" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/AUSzdFmh7fN55bJqFznuyZ2kEmId.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/AUSzdFmh7fN55bJqFznuyZ2kEmIp.xml" value="a92a33d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/JeZqf4cxlxz1C1-CokIxbGcR2tUd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/JeZqf4cxlxz1C1-CokIxbGcR2tUp.xml" value="b67e7cf7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/PeSLDcMvQBY51OJDpCk1MtWhZFcd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/PeSLDcMvQBY51OJDpCk1MtWhZFcp.xml" value="3e75fe8c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/jmrEOt1UBjosWcZ2czW0d0u-IQcd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/jmrEOt1UBjosWcZ2czW0d0u-IQcp.xml" value="9bd9d47f"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/roJQFYIX74dKl9_jskAdUavrR94d.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew/roJQFYIX74dKl9_jskAdUavrR94p.xml" value="108e6e99"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/dhCDF-CcOCz6Br0EuQ733WEz1Ew" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/jSlDNcQet9YhH8sH_YnEBqw1FGo/S032MiiXHdZUGaP8F8g03Rsy3Lgd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/jSlDNcQet9YhH8sH_YnEBqw1FGo/S032MiiXHdZUGaP8F8g03Rsy3Lgp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/jSlDNcQet9YhH8sH_YnEBqw1FGo" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/mjGr7Kl3E3rtnSBC4b43Y0bfZBs" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/pzOUvcSiuQL0nhnHVqU6BGJ4RKc/rU3L4lLt29RVjg1u3IMXqCjC4eod.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/pzOUvcSiuQL0nhnHVqU6BGJ4RKc/rU3L4lLt29RVjg1u3IMXqCjC4eop.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/pzOUvcSiuQL0nhnHVqU6BGJ4RKc" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/A_L_wsyk7aQfbfqbUUalZWEtaoId.xml" value="317cfbea"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/A_L_wsyk7aQfbfqbUUalZWEtaoIp.xml" value="a7279dcd"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/CS81gWsK3gm1jOjNkWZ9nnGitC4d.xml" value="317cfbea"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/CS81gWsK3gm1jOjNkWZ9nnGitC4p.xml" value="f987148c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/RqGP_1HnK6DaAdYccw4kMwX0cy4d.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/RqGP_1HnK6DaAdYccw4kMwX0cy4p.xml" value="f02290d6"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/SRpVEkcLxKLND4qbg0uDwP5JXpsd.xml" value="fbf03ea7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/SRpVEkcLxKLND4qbg0uDwP5JXpsp.xml" value="1ea2bc32"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/UWhdiB3W-WPy3xpPn_dcp9BgPkkd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/UWhdiB3W-WPy3xpPn_dcp9BgPkkp.xml" value="66c84bf9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/aT5X98kvmXBeRK68e8ptLxAOWbkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/aT5X98kvmXBeRK68e8ptLxAOWbkp.xml" value="f486621a"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/gx-zMON3pKkOstf2v5nvIGhnP6sd.xml" value="317cfbea"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/gx-zMON3pKkOstf2v5nvIGhnP6sp.xml" value="9b502240"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/jSlDNcQet9YhH8sH_YnEBqw1FGod.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/jSlDNcQet9YhH8sH_YnEBqw1FGop.xml" value="a2cb17d6"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/pzOUvcSiuQL0nhnHVqU6BGJ4RKcd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/pzOUvcSiuQL0nhnHVqU6BGJ4RKcp.xml" value="6334d407"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/v9p8k_Mz_Mvu9jdg3nTbAiKcQH8d.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/v9p8k_Mz_Mvu9jdg3nTbAiKcQH8p.xml" value="327408d2"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="1dce445d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/root" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project/uuid-8e4fa4e4-de72-49df-8ae3-ba4eae166659.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources/project" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/resources" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache/Cell_Test_bench/checksumOfCache.mat" value="35e17f83"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache/Cell_Test_bench/tmwinternal/simulink_cache.xml" value="e7dcc635"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache/Cell_Test_bench/tmwinternal" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache/Cell_Test_bench/varInfo.mat" value="6199cb6d"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache/Cell_Test_bench" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim/varcache" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj/sim" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/slprj" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library/untitled.slx.autosave" value="16e43f8c"/>
+        <File path="Battery_Pack_Library/Battery_Cells_Library" value="-1"/>
+        <File path="Battery_Pack_Library/Battery_Pack_setup.asv" value="3dd59b1d"/>
+        <File path="Battery_Pack_Library/controllers-library/.gitattributes" value="d53a431e"/>
+        <File path="Battery_Pack_Library/controllers-library/.gitignore" value="68bd6b9a"/>
+        <File path="Battery_Pack_Library/controllers-library/BMS.slx" value="a040b6aa"/>
+        <File path="Battery_Pack_Library/controllers-library/Board5.png" value="ea82dd97"/>
+        <File path="Battery_Pack_Library/controllers-library/Controllers_Library.prj" value="fe84b66d"/>
+        <File path="Battery_Pack_Library/controllers-library/EDGE_COMPUTER.slx" value="c3c56f69"/>
+        <File path="Battery_Pack_Library/controllers-library/FC_DCDC_MU.slx" value="c783369a"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUd.xml" value="50727024"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUp.xml" value="7bea846e"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8d.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8p.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cp.xml" value="58930d8"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMp.xml" value="ef0c1575"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEp.xml" value="b78b0112"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeId.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeIp.xml" value="b218c38d"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqod.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqop.xml" value="980d32ce"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="686d2940"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/root" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project/uuid-3b621cf4-d00b-4c41-a453-f00459765d8c.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/controllers-library/resources/project" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/resources" value="-1"/>
+        <File path="Battery_Pack_Library/controllers-library/uAutoBox_small.png" value="70c940c9"/>
+        <File path="Battery_Pack_Library/controllers-library" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/1S-5bQawtsTRikpowtv9ZGKs4fc/w1NfXrXdpJ-Pe-B-a1_Cutdskxwd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/1S-5bQawtsTRikpowtv9ZGKs4fc/w1NfXrXdpJ-Pe-B-a1_Cutdskxwp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/1S-5bQawtsTRikpowtv9ZGKs4fc" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/2LdXGOgQjzrW29yEgi6b-H_LH7o/PtdvMGoy0P67OoldY-vKLM-KFXkd.xml" value="2017271c"/>
+        <File path="Battery_Pack_Library/resources/project/2LdXGOgQjzrW29yEgi6b-H_LH7o/PtdvMGoy0P67OoldY-vKLM-KFXkp.xml" value="dd93bbf6"/>
+        <File path="Battery_Pack_Library/resources/project/2LdXGOgQjzrW29yEgi6b-H_LH7o" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/0kYTBY78n_OWlw6W0CjZ89oH4iYd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/0kYTBY78n_OWlw6W0CjZ89oH4iYp.xml" value="d5c49c39"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/8ZlA4IziDrjxaJEWV7KmdQFf5FUd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/8ZlA4IziDrjxaJEWV7KmdQFf5FUp.xml" value="da3ac27e"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/HdgmA4xKlM40eD7RaGe79KoOJKgd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/HdgmA4xKlM40eD7RaGe79KoOJKgp.xml" value="3fd730c"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/SwosJx9sxul8Rm18KGccWoVWFvgd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/SwosJx9sxul8Rm18KGccWoVWFvgp.xml" value="60a23a3a"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/krKymPg4eB5BDWsmOjimqkeX62od.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8/krKymPg4eB5BDWsmOjimqkeX62op.xml" value="60f04278"/>
+        <File path="Battery_Pack_Library/resources/project/7dmm-eba4ainwGW_PxBVoqhytl8" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/7rkVpv1oVh761uDbpHs2w3s7cmU/j-1WLoOEdjETYKTmXqfp9qijueMd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/7rkVpv1oVh761uDbpHs2w3s7cmU/j-1WLoOEdjETYKTmXqfp9qijueMp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/7rkVpv1oVh761uDbpHs2w3s7cmU" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/CtiXvcSSkFFcHiOfjMTnsuVdhA0/-y0H9U2uwRUkWZ23oo848pmuiIsd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/CtiXvcSSkFFcHiOfjMTnsuVdhA0/-y0H9U2uwRUkWZ23oo848pmuiIsp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/CtiXvcSSkFFcHiOfjMTnsuVdhA0" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/9ZNfKVHRK8nC4kkQfMZoxKVhIPId.xml" value="55144217"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/9ZNfKVHRK8nC4kkQfMZoxKVhIPIp.xml" value="818305ce"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IfBzhDRPN-ag53s7GgMSUTAUcIod.xml" value="50727024"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IfBzhDRPN-ag53s7GgMSUTAUcIop.xml" value="235f9825"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Lanv29US-J5Tn9AX5n1N8KK7X5Id.xml" value="192447f0"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Lanv29US-J5Tn9AX5n1N8KK7X5Ip.xml" value="f417674f"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Ns1jDpCQ0G7OR9tzzHCc_epVanwd.xml" value="c8c5a7a1"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Ns1jDpCQ0G7OR9tzzHCc_epVanwp.xml" value="a2822c67"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/WP-lJT_rNaHFiUzFDKIS3Sj0fxkd.xml" value="86d008d0"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/WP-lJT_rNaHFiUzFDKIS3Sj0fxkp.xml" value="529c2341"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/zni8s673PaKkT6N67qcioVyuXgYd.xml" value="a8c1719f"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/zni8s673PaKkT6N67qcioVyuXgYp.xml" value="b5cd227a"/>
+        <File path="Battery_Pack_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/IE8OZLL6Pb-syzk69JTajOIE4eU/sqhsc12jv8NrHsjHB62D7wViug8d.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/IE8OZLL6Pb-syzk69JTajOIE4eU/sqhsc12jv8NrHsjHB62D7wViug8p.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/IE8OZLL6Pb-syzk69JTajOIE4eU" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/2LdXGOgQjzrW29yEgi6b-H_LH7od.xml" value="256cf15a"/>
+        <File path="Battery_Pack_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/2LdXGOgQjzrW29yEgi6b-H_LH7op.xml" value="da41ab27"/>
+        <File path="Battery_Pack_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/RCE21800yvWEmDo4anygUidulSQd.xml" value="da12d29c"/>
+        <File path="Battery_Pack_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/RCE21800yvWEmDo4anygUidulSQp.xml" value="ba0c6ae9"/>
+        <File path="Battery_Pack_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Battery_Pack_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Battery_Pack_Library/resources/project/RCE21800yvWEmDo4anygUidulSQ/dWemPIhk2aa7kNOhz4Ypa-rrtV0d.xml" value="77c85844"/>
+        <File path="Battery_Pack_Library/resources/project/RCE21800yvWEmDo4anygUidulSQ/dWemPIhk2aa7kNOhz4Ypa-rrtV0p.xml" value="a333af60"/>
+        <File path="Battery_Pack_Library/resources/project/RCE21800yvWEmDo4anygUidulSQ" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/M2DYWRQCQZUtFV1_ngVU299RR74d.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/M2DYWRQCQZUtFV1_ngVU299RR74p.xml" value="b0d1791e"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/jKQX8LbKgRWb-wWjhzckeEX9uakd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/jKQX8LbKgRWb-wWjhzckeEX9uakp.xml" value="1397c539"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/lwIkG6D7-fmuWKl1Com9B2E3TOkd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/lwIkG6D7-fmuWKl1Com9B2E3TOkp.xml" value="a11fb368"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/t-W5WLKoBvGs2fLVh0qs83X-Xbgd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/t-W5WLKoBvGs2fLVh0qs83X-Xbgp.xml" value="60a23a3a"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/twJ1Bp5T-DYQz4NgrJ76hqEAjGMd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/twJ1Bp5T-DYQz4NgrJ76hqEAjGMp.xml" value="4a06e61e"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/zli5MqO5YTra4AGOQ7wWMNKvS24d.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA/zli5MqO5YTra4AGOQ7wWMNKvS24p.xml" value="e09c0a76"/>
+        <File path="Battery_Pack_Library/resources/project/SeQN54sC-E2W8m6h25wJRTyXZCA" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/1S-5bQawtsTRikpowtv9ZGKs4fcd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/1S-5bQawtsTRikpowtv9ZGKs4fcp.xml" value="5aad730e"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/7rkVpv1oVh761uDbpHs2w3s7cmUd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/7rkVpv1oVh761uDbpHs2w3s7cmUp.xml" value="6be453d2"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/CJyJi_7nianF2wg9s_Wi5wL8rwkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/CJyJi_7nianF2wg9s_Wi5wL8rwkp.xml" value="60a23a3a"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/CtiXvcSSkFFcHiOfjMTnsuVdhA0d.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/CtiXvcSSkFFcHiOfjMTnsuVdhA0p.xml" value="70a46ae8"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/fwmNYtp4F9ah2BnC5VgXCDJyrysd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/fwmNYtp4F9ah2BnC5VgXCDJyrysp.xml" value="1d728f25"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/lGETXZ95Cd3shhwGVABvJediF8Ed.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM/lGETXZ95Cd3shhwGVABvJediF8Ep.xml" value="63feefd4"/>
+        <File path="Battery_Pack_Library/resources/project/YjbPBurFR2QelPcGLhdgrcRsbuM" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/2GSBDbGokv_79v20yO2_bsd4jbId.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/2GSBDbGokv_79v20yO2_bsd4jbIp.xml" value="da63d08c"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Jy2zdnMpNPtqMriIk5bh2pP1kTId.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Jy2zdnMpNPtqMriIk5bh2pP1kTIp.xml" value="58b6a031"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wp.xml" value="60a23a3a"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/hvVMMOuODyOegnkRwavGeSBIrBEd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/hvVMMOuODyOegnkRwavGeSBIrBEp.xml" value="4fd4fccb"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/oZBHgMF0goW5Cn-ejuhqWQIEuQQd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/oZBHgMF0goW5Cn-ejuhqWQIEuQQp.xml" value="545b1e81"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/zoUYEFMnLiJi-0pa2uwzBEfBO0gd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/zoUYEFMnLiJi-0pa2uwzBEfBO0gp.xml" value="dfab5fe5"/>
+        <File path="Battery_Pack_Library/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/8G3c_7pf5LioW69O2kS8apDFNgQd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/8G3c_7pf5LioW69O2kS8apDFNgQp.xml" value="4e5f407c"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/Xgk5rITgcVg4y_lN9vP2E552qukd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/Xgk5rITgcVg4y_lN9vP2E552qukp.xml" value="7357a7f9"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/j4LEP_dEfKe5w-eHICSAmDTLYmgd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/j4LEP_dEfKe5w-eHICSAmDTLYmgp.xml" value="9d659b30"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/lL_pJE0r4qvhf8YmEhSrFxNhWnkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/lL_pJE0r4qvhf8YmEhSrFxNhWnkp.xml" value="60a23a3a"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/oENfBMUFigumscRH3O9cHhFdnC0d.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw/oENfBMUFigumscRH3O9cHhFdnC0p.xml" value="d98a0c54"/>
+        <File path="Battery_Pack_Library/resources/project/brzYvOc1OtdUNRG01wpItZgkDzw" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Battery_Pack_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Battery_Pack_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/fwmNYtp4F9ah2BnC5VgXCDJyrys/QHvZLSTCeE_GbSGtxkb4i47YwvMd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/fwmNYtp4F9ah2BnC5VgXCDJyrys/QHvZLSTCeE_GbSGtxkb4i47YwvMp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/fwmNYtp4F9ah2BnC5VgXCDJyrys" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/jKQX8LbKgRWb-wWjhzckeEX9uak/ultONrqXSrnpfdjrQoksFjMPQWod.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/jKQX8LbKgRWb-wWjhzckeEX9uak/ultONrqXSrnpfdjrQoksFjMPQWop.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/jKQX8LbKgRWb-wWjhzckeEX9uak" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/7dmm-eba4ainwGW_PxBVoqhytl8d.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/7dmm-eba4ainwGW_PxBVoqhytl8p.xml" value="cde2775d"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IE8OZLL6Pb-syzk69JTajOIE4eUd.xml" value="ea65cf7"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IE8OZLL6Pb-syzk69JTajOIE4eUp.xml" value="538a1c74"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/SeQN54sC-E2W8m6h25wJRTyXZCAd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/SeQN54sC-E2W8m6h25wJRTyXZCAp.xml" value="a58a3e86"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/YjbPBurFR2QelPcGLhdgrcRsbuMd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/YjbPBurFR2QelPcGLhdgrcRsbuMp.xml" value="5a82c5e7"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEp.xml" value="6e7420fa"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/brzYvOc1OtdUNRG01wpItZgkDzwd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/brzYvOc1OtdUNRG01wpItZgkDzwp.xml" value="4e4df030"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Battery_Pack_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Battery_Pack_Library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Battery_Pack_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="b66813cb"/>
+        <File path="Battery_Pack_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Battery_Pack_Library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Battery_Pack_Library/resources/project/root/LUgSFhI3RPozNzNcutxrczVe6f0p.xml" value="3617466d"/>
+        <File path="Battery_Pack_Library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Battery_Pack_Library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Battery_Pack_Library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Battery_Pack_Library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/root" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/twJ1Bp5T-DYQz4NgrJ76hqEAjGM/rTxDCq1g2LqgNA4lwVBSpiWbQZkd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/twJ1Bp5T-DYQz4NgrJ76hqEAjGM/rTxDCq1g2LqgNA4lwVBSpiWbQZkp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/twJ1Bp5T-DYQz4NgrJ76hqEAjGM" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project/uuid-2419a905-cbf4-4a82-b890-8ff09359f9b8.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/zli5MqO5YTra4AGOQ7wWMNKvS24/j2iFaV1nGRTlSYJGflZpXHcTMAYd.xml" value="b62b63f9"/>
+        <File path="Battery_Pack_Library/resources/project/zli5MqO5YTra4AGOQ7wWMNKvS24/j2iFaV1nGRTlSYJGflZpXHcTMAYp.xml" value="943c2b48"/>
+        <File path="Battery_Pack_Library/resources/project/zli5MqO5YTra4AGOQ7wWMNKvS24" value="-1"/>
+        <File path="Battery_Pack_Library/resources/project" value="-1"/>
+        <File path="Battery_Pack_Library/resources" value="-1"/>
+        <File path="Battery_Pack_Library" value="-1"/>
+        <File path="Battery_Test_Bench.slxc" value="421f5822"/>
+        <File path="FC+REESS.prj" value="fe84b66d"/>
+        <File path="FCBATPWT_10_r22a.slxc" value="9980f0fc"/>
+        <File path="Fuel_Cell_Library/.gitattributes" value="d53a431e"/>
+        <File path="Fuel_Cell_Library/.gitignore" value="3b66b554"/>
+        <File path="Fuel_Cell_Library/.gitmodules" value="71d444e5"/>
+        <File path="Fuel_Cell_Library/00 - Models/FC_plant_empty.slx" value="17b3fe56"/>
+        <File path="Fuel_Cell_Library/00 - Models/FUELCELL_DCDC_Branch.slx" value="f395912d"/>
+        <File path="Fuel_Cell_Library/00 - Models/Fuel_Cell_MAP_DLC.slx" value="f74732ee"/>
+        <File path="Fuel_Cell_Library/00 - Models/Fuel_Cell_test_bench.slx" value="9b6a04d8"/>
+        <File path="Fuel_Cell_Library/00 - Models/Variant_FC_plant.slx" value="6927079"/>
+        <File path="Fuel_Cell_Library/00 - Models" value="-1"/>
+        <File path="Fuel_Cell_Library/01 - Scripts/Fuel_Cell_initialization.m" value="131d6bd4"/>
+        <File path="Fuel_Cell_Library/01 - Scripts/Fuel_Cell_setup.m" value="ef742a4f"/>
+        <File path="Fuel_Cell_Library/01 - Scripts/Startup_prj.m" value="3fcd53d8"/>
+        <File path="Fuel_Cell_Library/01 - Scripts" value="-1"/>
+        <File path="Fuel_Cell_Library/02 - Components data/200kW FC XD MOVE.mat" value="3532b220"/>
+        <File path="Fuel_Cell_Library/02 - Components data" value="-1"/>
+        <File path="Fuel_Cell_Library/FCDCDC.png" value="e2e126d3"/>
+        <File path="Fuel_Cell_Library/FC_schematics.jpg" value="a675db0"/>
+        <File path="Fuel_Cell_Library/FuelCellLibrary.prj" value="fe84b66d"/>
+        <File path="Fuel_Cell_Library/controllers-library/.gitattributes" value="d53a431e"/>
+        <File path="Fuel_Cell_Library/controllers-library/.gitignore" value="68bd6b9a"/>
+        <File path="Fuel_Cell_Library/controllers-library/BMS.slx" value="a040b6aa"/>
+        <File path="Fuel_Cell_Library/controllers-library/Board5.png" value="ea82dd97"/>
+        <File path="Fuel_Cell_Library/controllers-library/Controllers_Library.prj" value="fe84b66d"/>
+        <File path="Fuel_Cell_Library/controllers-library/EDGE_COMPUTER.slx" value="c3c56f69"/>
+        <File path="Fuel_Cell_Library/controllers-library/FC_DCDC_MU.slx" value="c783369a"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUd.xml" value="50727024"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUp.xml" value="7bea846e"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcp.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8p.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cp.xml" value="58930d8"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMp.xml" value="ef0c1575"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEp.xml" value="b78b0112"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeId.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeIp.xml" value="b218c38d"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqod.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqop.xml" value="980d32ce"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="686d2940"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/root" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project/uuid-3b621cf4-d00b-4c41-a453-f00459765d8c.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources/project" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/resources" value="-1"/>
+        <File path="Fuel_Cell_Library/controllers-library/uAutoBox_small.png" value="70c940c9"/>
+        <File path="Fuel_Cell_Library/controllers-library" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/.gitattributes" value="d53a431e"/>
+        <File path="Fuel_Cell_Library/dcdc-library/.gitignore" value="634ab6e4"/>
+        <File path="Fuel_Cell_Library/dcdc-library/DCDC schematic.png" value="9f7b4d79"/>
+        <File path="Fuel_Cell_Library/dcdc-library/DCDCLibrary.prj" value="fe84b66d"/>
+        <File path="Fuel_Cell_Library/dcdc-library/DCDC_plant_Empty.slx" value="95a4f47a"/>
+        <File path="Fuel_Cell_Library/dcdc-library/DCDC_plant_Energy.slx" value="4769c829"/>
+        <File path="Fuel_Cell_Library/dcdc-library/Variant_DCDC_plant.slx" value="abe5592"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/0-qh4cE5555_KyVAVzIpBHdT3Qw/f5I5uVskRIVy1Rv3sezmzVQaiyod.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/0-qh4cE5555_KyVAVzIpBHdT3Qw/f5I5uVskRIVy1Rv3sezmzVQaiyop.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/0-qh4cE5555_KyVAVzIpBHdT3Qw" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/v6KBuJUtf_oVPGHwHaO87oVkuwgd.xml" value="50727024"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/v6KBuJUtf_oVPGHwHaO87oVkuwgp.xml" value="ad4dcb13"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/gee9TSRBUkdk3KUI39jKTc9YvKg/zsNcqsNKJC8maWwSuQTuUCOyhv4d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/gee9TSRBUkdk3KUI39jKTc9YvKg/zsNcqsNKJC8maWwSuQTuUCOyhv4p.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/gee9TSRBUkdk3KUI39jKTc9YvKg" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/oCL3mgn-4r-bhhCS_t6M7ChbJm0/ecarebXTqeeS1d64iU1LaEe9gbMd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/oCL3mgn-4r-bhhCS_t6M7ChbJm0/ecarebXTqeeS1d64iU1LaEe9gbMp.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/oCL3mgn-4r-bhhCS_t6M7ChbJm0" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/0-qh4cE5555_KyVAVzIpBHdT3Qwd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/0-qh4cE5555_KyVAVzIpBHdT3Qwp.xml" value="b50aac74"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3eoHSQPIEZF-2ligVGBSlofrdzId.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3eoHSQPIEZF-2ligVGBSlofrdzIp.xml" value="2c76c59e"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/gee9TSRBUkdk3KUI39jKTc9YvKgd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/gee9TSRBUkdk3KUI39jKTc9YvKgp.xml" value="dbf989a1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/oCL3mgn-4r-bhhCS_t6M7ChbJm0d.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/oCL3mgn-4r-bhhCS_t6M7ChbJm0p.xml" value="96a7fb3b"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="e83b6e35"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/root" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project/uuid-709ef82f-f001-4334-909d-e3a6689ac6c8.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources/project" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library/resources" value="-1"/>
+        <File path="Fuel_Cell_Library/dcdc-library" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/01AtdE1UZ0DbXnyl6ZNMO0hRvaA/DCcznE8e-kG5uWhICptkFUfvc-8d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/01AtdE1UZ0DbXnyl6ZNMO0hRvaA/DCcznE8e-kG5uWhICptkFUfvc-8p.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/resources/project/01AtdE1UZ0DbXnyl6ZNMO0hRvaA" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/96oOFJUo7boirsV8SuwGmTWMJt0/jTgkBIX-3ep0LQUHEJ74OnxdGnUd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/96oOFJUo7boirsV8SuwGmTWMJt0/jTgkBIX-3ep0LQUHEJ74OnxdGnUp.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/resources/project/96oOFJUo7boirsV8SuwGmTWMJt0" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/OGHdqb5RtJPieo0x_5jIsNlpZFAd.xml" value="50727024"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/OGHdqb5RtJPieo0x_5jIsNlpZFAp.xml" value="7502b21a"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/SwRkTs6vmvF3Gt5Py2tdWvY3Jzcd.xml" value="c38c3e80"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/SwRkTs6vmvF3Gt5Py2tdWvY3Jzcp.xml" value="2bd1bcef"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Y6OnAmSL756i4n2Zj3-inSv_ZMkd.xml" value="bab0ebd8"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Y6OnAmSL756i4n2Zj3-inSv_ZMkp.xml" value="b951cd5b"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/t6LmKXJCZ9CKm_yT2EcZmBx-Xjgd.xml" value="99647f94"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/t6LmKXJCZ9CKm_yT2EcZmBx-Xjgp.xml" value="71926c1b"/>
+        <File path="Fuel_Cell_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/01AtdE1UZ0DbXnyl6ZNMO0hRvaAd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/01AtdE1UZ0DbXnyl6ZNMO0hRvaAp.xml" value="23159db2"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/96oOFJUo7boirsV8SuwGmTWMJt0d.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/96oOFJUo7boirsV8SuwGmTWMJt0p.xml" value="497491a1"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/Llwg9z8OIDuiMafBNrUMDYNfNSkd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/Llwg9z8OIDuiMafBNrUMDYNfNSkp.xml" value="4430562f"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/c3KKjTKCCb20LRnOeX1tQcTV310d.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/c3KKjTKCCb20LRnOeX1tQcTV310p.xml" value="dd897758"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/c6Adr2njEdccmUVbDQdvmEZXVFMd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/c6Adr2njEdccmUVbDQdvmEZXVFMp.xml" value="6c6ecff0"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fG6whLG5wbp-ALUNNHCTlJ6HMFMd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fG6whLG5wbp-ALUNNHCTlJ6HMFMp.xml" value="60a23a3a"/>
+        <File path="Fuel_Cell_Library/resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/P4os1kk7eE735HJWHPGMh4189twd.xml" value="1eabed9a"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/P4os1kk7eE735HJWHPGMh4189twp.xml" value="2a134aca"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/dhz5LLpAaP-PO1PvwKBlhffFDO8d.xml" value="256cf15a"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/dhz5LLpAaP-PO1PvwKBlhffFDO8p.xml" value="5998e5d4"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/eUmHudIjUXWo08agDLApyl8FvyAd.xml" value="faebaad1"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/eUmHudIjUXWo08agDLApyl8FvyAp.xml" value="1f3bb95"/>
+        <File path="Fuel_Cell_Library/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/Llwg9z8OIDuiMafBNrUMDYNfNSk/0P9WLyIStXi4Cvw2vl4g4gxxUhgd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/Llwg9z8OIDuiMafBNrUMDYNfNSk/0P9WLyIStXi4Cvw2vl4g4gxxUhgp.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/resources/project/Llwg9z8OIDuiMafBNrUMDYNfNSk" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Fuel_Cell_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/P4os1kk7eE735HJWHPGMh4189tw/kWM8JieNzwLNncA5BuQmICXzu-Id.xml" value="a6c5b91a"/>
+        <File path="Fuel_Cell_Library/resources/project/P4os1kk7eE735HJWHPGMh4189tw/kWM8JieNzwLNncA5BuQmICXzu-Ip.xml" value="8a67a36d"/>
+        <File path="Fuel_Cell_Library/resources/project/P4os1kk7eE735HJWHPGMh4189tw" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Fuel_Cell_Library/resources/project/TE-Wfcoh3Fpefu7V1ABFtikR8b8/54a7aEZDpx35hr7DCmbLKQDOZNId.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/TE-Wfcoh3Fpefu7V1ABFtikR8b8/54a7aEZDpx35hr7DCmbLKQDOZNIp.xml" value="5479602c"/>
+        <File path="Fuel_Cell_Library/resources/project/TE-Wfcoh3Fpefu7V1ABFtikR8b8/N4LG_GWz2QuW518Q3K90cWWWsr0d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/TE-Wfcoh3Fpefu7V1ABFtikR8b8/N4LG_GWz2QuW518Q3K90cWWWsr0p.xml" value="60a23a3a"/>
+        <File path="Fuel_Cell_Library/resources/project/TE-Wfcoh3Fpefu7V1ABFtikR8b8" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/c3KKjTKCCb20LRnOeX1tQcTV310/JJxieGL9at-kXibNQOBUIKeIV-4d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/c3KKjTKCCb20LRnOeX1tQcTV310/JJxieGL9at-kXibNQOBUIKeIV-4p.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/resources/project/c3KKjTKCCb20LRnOeX1tQcTV310" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/dhz5LLpAaP-PO1PvwKBlhffFDO8/qTSZ9IMw_diVERsNFxBhswupq98d.xml" value="a30111fc"/>
+        <File path="Fuel_Cell_Library/resources/project/dhz5LLpAaP-PO1PvwKBlhffFDO8/qTSZ9IMw_diVERsNFxBhswupq98p.xml" value="f35cb828"/>
+        <File path="Fuel_Cell_Library/resources/project/dhz5LLpAaP-PO1PvwKBlhffFDO8" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/eUmHudIjUXWo08agDLApyl8FvyA/ugBc4f0oMZ7n0BiyktEzw2maxPcd.xml" value="c5038c1f"/>
+        <File path="Fuel_Cell_Library/resources/project/eUmHudIjUXWo08agDLApyl8FvyA/ugBc4f0oMZ7n0BiyktEzw2maxPcp.xml" value="dbb139d8"/>
+        <File path="Fuel_Cell_Library/resources/project/eUmHudIjUXWo08agDLApyl8FvyA" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Fuel_Cell_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Fuel_Cell_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/B-Lvd2m72HMdkdvkE0kJhUWjG_Ud.xml" value="317cfbea"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/B-Lvd2m72HMdkdvkE0kJhUWjG_Up.xml" value="1c5fd60b"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/EUulqxZqQBM-MR008rFighqMQNkd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/EUulqxZqQBM-MR008rFighqMQNkp.xml" value="2be0da6"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/M_VXsOD_qffUj1LWk1vzsq94j1Id.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/M_VXsOD_qffUj1LWk1vzsq94j1Ip.xml" value="60a23a3a"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/oIGDZBT3YNAYCLcO2UFxXkamOkUd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/oIGDZBT3YNAYCLcO2UFxXkamOkUp.xml" value="fadc7133"/>
+        <File path="Fuel_Cell_Library/resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KG9J4Nxzmw9otMp8YQ58izbDXIYd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KG9J4Nxzmw9otMp8YQ58izbDXIYp.xml" value="77edc7d9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TE-Wfcoh3Fpefu7V1ABFtikR8b8d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TE-Wfcoh3Fpefu7V1ABFtikR8b8p.xml" value="b1df0f41"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/nAuCh6hBCL3NfHNxzZYtJVA3K1Ad.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/nAuCh6hBCL3NfHNxzZYtJVA3K1Ap.xml" value="8969866d"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/njrsujkAFcMq5L6WNKXOBj8RY_Yd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/njrsujkAFcMq5L6WNKXOBj8RY_Yp.xml" value="23e907bf"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/vDVlXCE8IF-gEpFNUXsNci0Tpvsd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/vDVlXCE8IF-gEpFNUXsNci0Tpvsp.xml" value="55ce3c06"/>
+        <File path="Fuel_Cell_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Fuel_Cell_Library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Fuel_Cell_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="72a27c01"/>
+        <File path="Fuel_Cell_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Fuel_Cell_Library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Fuel_Cell_Library/resources/project/root/LUgSFhI3RPozNzNcutxrczVe6f0p.xml" value="3617466d"/>
+        <File path="Fuel_Cell_Library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Fuel_Cell_Library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Fuel_Cell_Library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Fuel_Cell_Library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/root" value="-1"/>
+        <File path="Fuel_Cell_Library/resources/project/uuid-971d239e-50ac-4329-bc5d-f90210227ec0.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project/uuid-a0177c8a-2ea6-41a6-9fad-8e304535c8b5.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/resources/project" value="-1"/>
+        <File path="Fuel_Cell_Library/resources" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/.gitattributes" value="d53a431e"/>
+        <File path="Fuel_Cell_Library/test-bench/.gitignore" value="938b338e"/>
+        <File path="Fuel_Cell_Library/test-bench/00 - Scripts/Constants.m" value="5ffe6fa1"/>
+        <File path="Fuel_Cell_Library/test-bench/00 - Scripts/Test_bench_setup.asv" value="92871753"/>
+        <File path="Fuel_Cell_Library/test-bench/00 - Scripts/Test_bench_setup.m" value="a239de68"/>
+        <File path="Fuel_Cell_Library/test-bench/00 - Scripts" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/01 - Dutycycles/DutyCycles.xlsx" value="fcc1fe59"/>
+        <File path="Fuel_Cell_Library/test-bench/01 - Dutycycles/Test_signal.mat" value="ec7f3cb8"/>
+        <File path="Fuel_Cell_Library/test-bench/01 - Dutycycles" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/Current_Power_Load.slx" value="dbd02a9f"/>
+        <File path="Fuel_Cell_Library/test-bench/DCPOWER_LOAD_PROFILES.slx" value="1d99e705"/>
+        <File path="Fuel_Cell_Library/test-bench/DCPWRLoad.png" value="bc277eb9"/>
+        <File path="Fuel_Cell_Library/test-bench/DCPWRLoad_small.png" value="c8c4812f"/>
+        <File path="Fuel_Cell_Library/test-bench/DC_Load_front.jpg" value="90c09b28"/>
+        <File path="Fuel_Cell_Library/test-bench/Test_bench.prj" value="fe84b66d"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IAfrGtns4BDLR7NZI10KAuJdSpAd.xml" value="c5810e76"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IAfrGtns4BDLR7NZI10KAuJdSpAp.xml" value="a3eb586a"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/QsI48TLqkQc7Gl_73NhNZS_hlb0d.xml" value="50727024"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/QsI48TLqkQc7Gl_73NhNZS_hlb0p.xml" value="92657343"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/ym4d3cl2HGVBNtnQPZlRssfOrDUd.xml" value="86d008d0"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/ym4d3cl2HGVBNtnQPZlRssfOrDUp.xml" value="4255ae38"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/2JlInVA-Ke1_ETj312uVmgw0Lo4d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/2JlInVA-Ke1_ETj312uVmgw0Lo4p.xml" value="60a23a3a"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/ZkawFvMxSPK1ZFVsyTBvIIEx2G0d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/ZkawFvMxSPK1ZFVsyTBvIIEx2G0p.xml" value="6aa6c93d"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/s1aDkaL_1yxwW8ufwejr8hzWA8kd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/s1aDkaL_1yxwW8ufwejr8hzWA8kp.xml" value="d98a0c54"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/Project.xml" value="1246079c"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/E0ON9QIYwq78ThpAzZkf9NkrnIYd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/E0ON9QIYwq78ThpAzZkf9NkrnIYp.xml" value="e359a43f"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wp.xml" value="60a23a3a"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Oy9HThO9aGFnKVtklWHn4Co4A_Ed.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Oy9HThO9aGFnKVtklWHn4Co4A_Ep.xml" value="c036d155"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/R4FpokisNW06Fdq19J8nrpUAkXUd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/R4FpokisNW06Fdq19J8nrpUAkXUp.xml" value="4e5f407c"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk/c9qRR7nqW7Zdb9eTzCeqMhnGpaod.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk/c9qRR7nqW7Zdb9eTzCeqMhnGpaop.xml" value="943c2b48"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5_pF7rlddEV2c7nVl3bevnLaqgkd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5_pF7rlddEV2c7nVl3bevnLaqgkp.xml" value="c83c5899"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/EmqWm-mpI8367LG4aUR7MkQUpH4d.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/EmqWm-mpI8367LG4aUR7MkQUpH4p.xml" value="532fb5cb"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ZzF_HdewTLpCKf_QkpUIRK0eHyUd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ZzF_HdewTLpCKf_QkpUIRK0eHyUp.xml" value="55d9c359"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEp.xml" value="6e7420fa"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ekjMwUKYQAIdscvWYaP7nz3RkTYd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ekjMwUKYQAIdscvWYaP7nz3RkTYp.xml" value="28616ad4"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/l9vhJwXoERc73TLF7LRrk9fcDPkd.xml" value="ea65cf7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/l9vhJwXoERc73TLF7LRrk9fcDPkp.xml" value="895043"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="d52902e3"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/root" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project/uuid-bca33bb9-19b7-42e1-bd41-1b3560c8135f.xml" value="b62b63f9"/>
+        <File path="Fuel_Cell_Library/test-bench/resources/project" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench/resources" value="-1"/>
+        <File path="Fuel_Cell_Library/test-bench" value="-1"/>
+        <File path="Fuel_Cell_Library" value="-1"/>
+        <File path="Fuel_Cell_test_bench.slxc" value="c683360d"/>
+        <File path="README.md" value="2af77f5d"/>
+        <File path="SCiBCell6_10Ah_msp.mexw64" value="5f53d35"/>
+        <File path="Scopes_Library/.gitattributes" value="d53a431e"/>
+        <File path="Scopes_Library/.gitignore" value="68bd6b9a"/>
+        <File path="Scopes_Library/EfficiencyIsEfficientSM.jpg" value="20c249aa"/>
+        <File path="Scopes_Library/Oscilloscope_screen.png" value="bb89e5ff"/>
+        <File path="Scopes_Library/Oscilloscope_screen_small.png" value="2f73267b"/>
+        <File path="Scopes_Library/SCOPES.slx" value="6619530"/>
+        <File path="Scopes_Library/ScopesAndVisualizationTools.prj" value="fe84b66d"/>
+        <File path="Scopes_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/S2MGhvZIN9RW5fkfb2Q4DBJqJc0d.xml" value="50727024"/>
+        <File path="Scopes_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/S2MGhvZIN9RW5fkfb2Q4DBJqJc0p.xml" value="df8a8c63"/>
+        <File path="Scopes_Library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="Scopes_Library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="Scopes_Library/resources/project/Project.xml" value="1246079c"/>
+        <File path="Scopes_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="Scopes_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="Scopes_Library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="Scopes_Library/resources/project/kCUKhZ8CmA0nuPY7q0rP7oeiYXM/yEcQKMFNuC9915TuREoxvLiNsgkd.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/kCUKhZ8CmA0nuPY7q0rP7oeiYXM/yEcQKMFNuC9915TuREoxvLiNsgkp.xml" value="943c2b48"/>
+        <File path="Scopes_Library/resources/project/kCUKhZ8CmA0nuPY7q0rP7oeiYXM" value="-1"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/F1XhOGXf4Q8V1SMbpenLrbo1anod.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/F1XhOGXf4Q8V1SMbpenLrbo1anop.xml" value="a1edcefd"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Od0089B64k58s3v5wUQuWLn544Md.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Od0089B64k58s3v5wUQuWLn544Mp.xml" value="c1335f8"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/kCUKhZ8CmA0nuPY7q0rP7oeiYXMd.xml" value="ea65cf7"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/kCUKhZ8CmA0nuPY7q0rP7oeiYXMp.xml" value="9c57603d"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="Scopes_Library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="Scopes_Library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="Scopes_Library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="Scopes_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="90ab6d26"/>
+        <File path="Scopes_Library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="Scopes_Library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="Scopes_Library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="Scopes_Library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="Scopes_Library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="Scopes_Library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project/root" value="-1"/>
+        <File path="Scopes_Library/resources/project/uuid-bfe02002-903e-4297-8a9e-da6cfe785807.xml" value="b62b63f9"/>
+        <File path="Scopes_Library/resources/project" value="-1"/>
+        <File path="Scopes_Library/resources" value="-1"/>
+        <File path="Scopes_Library" value="-1"/>
+        <File path="Startup_prj.m" value="3e6757f0"/>
+        <File path="controllers-library/.gitattributes" value="d53a431e"/>
+        <File path="controllers-library/.gitignore" value="68bd6b9a"/>
+        <File path="controllers-library/BMS.slx" value="a040b6aa"/>
+        <File path="controllers-library/Board5.png" value="ea82dd97"/>
+        <File path="controllers-library/Controllers_Library.prj" value="fe84b66d"/>
+        <File path="controllers-library/EDGE_COMPUTER.slx" value="c3c56f69"/>
+        <File path="controllers-library/FC_DCDC_MU.slx" value="c783369a"/>
+        <File path="controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUd.xml" value="50727024"/>
+        <File path="controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/xqU8oXt3IFyfLcfsU1Epnwxf0XUp.xml" value="7bea846e"/>
+        <File path="controllers-library/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcd.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM/Ge2XUReSRzMiPjV98vt9VTQYLMcp.xml" value="943c2b48"/>
+        <File path="controllers-library/resources/project/HfOaOaAjmsVt9K8_rrWHK71l3FM" value="-1"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="controllers-library/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="controllers-library/resources/project/Project.xml" value="1246079c"/>
+        <File path="controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8d.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE/KtfdhzXYcMmA1C_BeHurl6_AwH8p.xml" value="943c2b48"/>
+        <File path="controllers-library/resources/project/Y35WC0aFTeJBOdzbMl6ySJnDcNE" value="-1"/>
+        <File path="controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="controllers-library/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cd.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/3Sag3DNz77gKqu3E7ulKqvc285cp.xml" value="58930d8"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMd.xml" value="ea65cf7"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/HfOaOaAjmsVt9K8_rrWHK71l3FMp.xml" value="ef0c1575"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEd.xml" value="ea65cf7"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/Y35WC0aFTeJBOdzbMl6ySJnDcNEp.xml" value="b78b0112"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeId.xml" value="317cfbea"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/i6E3bs3TD_0p0ODG17Twi2SaVeIp.xml" value="5b0a1d81"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqod.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/mr4bPRcXiNIsWOscbhXfbPBtEqop.xml" value="980d32ce"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="controllers-library/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="controllers-library/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="controllers-library/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="686d2940"/>
+        <File path="controllers-library/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="controllers-library/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="controllers-library/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="controllers-library/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="controllers-library/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="controllers-library/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project/root" value="-1"/>
+        <File path="controllers-library/resources/project/uuid-3b621cf4-d00b-4c41-a453-f00459765d8c.xml" value="b62b63f9"/>
+        <File path="controllers-library/resources/project" value="-1"/>
+        <File path="controllers-library/resources" value="-1"/>
+        <File path="controllers-library/uAutoBox_small.png" value="70c940c9"/>
+        <File path="controllers-library" value="-1"/>
+        <File path="resources/project/6xhH2l9GP9loT6TdFn_Mo65sDHg/P8PSrqcBHMbGhqD2r1d9oc0h3TUd.xml" value="8e65e0bd"/>
+        <File path="resources/project/6xhH2l9GP9loT6TdFn_Mo65sDHg/P8PSrqcBHMbGhqD2r1d9oc0h3TUp.xml" value="2e5bc171"/>
+        <File path="resources/project/6xhH2l9GP9loT6TdFn_Mo65sDHg" value="-1"/>
+        <File path="resources/project/A2d2CU5dCBiDoxIiSXjWDQOzGfk/T-Q_NwVZM0P0kbVY6yMQSLCEdGEd.xml" value="58fe403"/>
+        <File path="resources/project/A2d2CU5dCBiDoxIiSXjWDQOzGfk/T-Q_NwVZM0P0kbVY6yMQSLCEdGEp.xml" value="66808473"/>
+        <File path="resources/project/A2d2CU5dCBiDoxIiSXjWDQOzGfk" value="-1"/>
+        <File path="resources/project/DC2YNw9CLPYxLID7KmFS8TKrU94/zI0TgspnJlYRxJCJE3b4s-cgWcMd.xml" value="cb3f7b9a"/>
+        <File path="resources/project/DC2YNw9CLPYxLID7KmFS8TKrU94/zI0TgspnJlYRxJCJE3b4s-cgWcMp.xml" value="ab4abc35"/>
+        <File path="resources/project/DC2YNw9CLPYxLID7KmFS8TKrU94" value="-1"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/BHK7nunGK6cQ1Ph5uPJB_oPEOzod.xml" value="4d8c6d93"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/BHK7nunGK6cQ1Ph5uPJB_oPEOzop.xml" value="e074fdc1"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/oWJ1lrmNbitRmzOPUDxkYkKSg2cd.xml" value="686af7f1"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/oWJ1lrmNbitRmzOPUDxkYkKSg2cp.xml" value="cdd93fc"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/q37mRMKo4EdkXkYD4Z6Z6w70IfUd.xml" value="66581742"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/q37mRMKo4EdkXkYD4Z6Z6w70IfUp.xml" value="7aaf101d"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/y2NMQAXpNTk6TxuoEVxXP6hrrqwd.xml" value="fb2701b1"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/y2NMQAXpNTk6TxuoEVxXP6hrrqwp.xml" value="f9ca7c51"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="resources/project/HoHDHQ_WvHAAKj5aJOrvrg_vpt8/_AaXeSXN25LJDHXRTRO6nynFuZEp.xml" value="3de8ecdd"/>
+        <File path="resources/project/HoHDHQ_WvHAAKj5aJOrvrg_vpt8" value="-1"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fG6whLG5wbp-ALUNNHCTlJ6HMFMd.xml" value="d832e81c"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fG6whLG5wbp-ALUNNHCTlJ6HMFMp.xml" value="e26020b4"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fYYfQaMR50zm4G1TN8G2PMfCC5od.xml" value="b62b63f9"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/fYYfQaMR50zm4G1TN8G2PMfCC5op.xml" value="6f22f752"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/sePMqTbXQ_gxCzZojrsNtsqRUD0d.xml" value="6827d0ff"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY/sePMqTbXQ_gxCzZojrsNtsqRUD0p.xml" value="7ff6afbd"/>
+        <File path="resources/project/KG9J4Nxzmw9otMp8YQ58izbDXIY" value="-1"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/A2d2CU5dCBiDoxIiSXjWDQOzGfkd.xml" value="26b84859"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/A2d2CU5dCBiDoxIiSXjWDQOzGfkp.xml" value="8ab240f0"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/DC2YNw9CLPYxLID7KmFS8TKrU94d.xml" value="256cf15a"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/DC2YNw9CLPYxLID7KmFS8TKrU94p.xml" value="4be3231c"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/c-7Szx81B110Gv_Zyq72An-IuNEd.xml" value="1b23de3a"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/c-7Szx81B110Gv_Zyq72An-IuNEp.xml" value="5fefe57d"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/l1Ct1wgWC3Yn3-u2bmzouBIyzYgd.xml" value="44230867"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/l1Ct1wgWC3Yn3-u2bmzouBIyzYgp.xml" value="d70f973f"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/pmF4gJ4uAgaRz4fFiUBIWOZL5E8d.xml" value="1eabed9a"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/pmF4gJ4uAgaRz4fFiUBIWOZL5E8p.xml" value="33ba05a2"/>
+        <File path="resources/project/LUgSFhI3RPozNzNcutxrczVe6f0" value="-1"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="578d0ece"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="d8bcba3a"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="f452bf7"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="2d2c591e"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="c3289b1"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="a96b543c"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="2e6f1d72"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="b559012a"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="46ab49a5"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="6110223d"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="df9a7e5c"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="7e909375"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="bd27947a"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="c6cce14c"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="resources/project/Project.xml" value="c68bfd59"/>
+        <File path="resources/project/_AaXeSXN25LJDHXRTRO6nynFuZE/913ZuJlj8vPKkAdAH60KHnsvogAd.xml" value="ca3ee1f6"/>
+        <File path="resources/project/_AaXeSXN25LJDHXRTRO6nynFuZE/913ZuJlj8vPKkAdAH60KHnsvogAp.xml" value="325de68"/>
+        <File path="resources/project/_AaXeSXN25LJDHXRTRO6nynFuZE" value="-1"/>
+        <File path="resources/project/c-7Szx81B110Gv_Zyq72An-IuNE/Pxp32zlNiTVsOYaGScqY0l6NOMEd.xml" value="b6da3743"/>
+        <File path="resources/project/c-7Szx81B110Gv_Zyq72An-IuNE/Pxp32zlNiTVsOYaGScqY0l6NOMEp.xml" value="71e5aaec"/>
+        <File path="resources/project/c-7Szx81B110Gv_Zyq72An-IuNE" value="-1"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/-4WwsXbRfkTFWELUGNSwY3u2efwd.xml" value="b62b63f9"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/-4WwsXbRfkTFWELUGNSwY3u2efwp.xml" value="a36d37ec"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/0o1HEwezuJTOE3_0KxKVVd-YluQd.xml" value="b62b63f9"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/0o1HEwezuJTOE3_0KxKVVd-YluQp.xml" value="60a23a3a"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/4VZAxbuKJyHHxKDK0b7dAfLxKCQd.xml" value="fbf03ea7"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/4VZAxbuKJyHHxKDK0b7dAfLxKCQp.xml" value="cd96c0a3"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/6FgUikVJJToMjy_6RJnNw8MuVVwd.xml" value="ea65cf7"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/6FgUikVJJToMjy_6RJnNw8MuVVwp.xml" value="bc626ea9"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/OuluIiM5WxtMJyq9JfgOrpXbQPgd.xml" value="ea65cf7"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/OuluIiM5WxtMJyq9JfgOrpXbQPgp.xml" value="1b3d0b03"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/XWYQDJXiGCyP11P1CmtuxDUADS8d.xml" value="fbf03ea7"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/XWYQDJXiGCyP11P1CmtuxDUADS8p.xml" value="22c8a15c"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/nUE1YlGL8zAEN6ul6fVbVUCLh_wd.xml" value="b62b63f9"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o/nUE1YlGL8zAEN6ul6fVbVUCLh_wp.xml" value="7eb1564e"/>
+        <File path="resources/project/fYYfQaMR50zm4G1TN8G2PMfCC5o" value="-1"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="4904ca7e"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="7bda7c57"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="resources/project/l1Ct1wgWC3Yn3-u2bmzouBIyzYg/adoRHS7zHYNKuHKGJ6eRNjLR9DAd.xml" value="b0fb0c8a"/>
+        <File path="resources/project/l1Ct1wgWC3Yn3-u2bmzouBIyzYg/adoRHS7zHYNKuHKGJ6eRNjLR9DAp.xml" value="12a95762"/>
+        <File path="resources/project/l1Ct1wgWC3Yn3-u2bmzouBIyzYg" value="-1"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/4x8EvYO6F3ZW_SziGWw3f9cNwLId.xml" value="b62b63f9"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/4x8EvYO6F3ZW_SziGWw3f9cNwLIp.xml" value="94bb0b1b"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/7fAj4BEcpN_VZCWbCj-vg8fdln0d.xml" value="72508bfb"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/7fAj4BEcpN_VZCWbCj-vg8fdln0p.xml" value="6230752f"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/KgkPjVE2oHaAwgJgC1vhEYrTw54d.xml" value="ea65cf7"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/KgkPjVE2oHaAwgJgC1vhEYrTw54p.xml" value="2f46df1d"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/M_VXsOD_qffUj1LWk1vzsq94j1Id.xml" value="d832e81c"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/M_VXsOD_qffUj1LWk1vzsq94j1Ip.xml" value="e26020b4"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/yX08-7o9pvJBcndjvOWdF_Y9Nbgd.xml" value="72508bfb"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A/yX08-7o9pvJBcndjvOWdF_Y9Nbgp.xml" value="e04faac2"/>
+        <File path="resources/project/nAuCh6hBCL3NfHNxzZYtJVA3K1A" value="-1"/>
+        <File path="resources/project/pmF4gJ4uAgaRz4fFiUBIWOZL5E8/FkeBaILITHU3wszibQpCIzpxdd8d.xml" value="1a8fc598"/>
+        <File path="resources/project/pmF4gJ4uAgaRz4fFiUBIWOZL5E8/FkeBaILITHU3wszibQpCIzpxdd8p.xml" value="de4b6e5c"/>
+        <File path="resources/project/pmF4gJ4uAgaRz4fFiUBIWOZL5E8" value="-1"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5VdYJ4Q8hEYNHIEkAx-PwDxISh0d.xml" value="b62b63f9"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5VdYJ4Q8hEYNHIEkAx-PwDxISh0p.xml" value="2be0da6"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KG9J4Nxzmw9otMp8YQ58izbDXIYd.xml" value="d832e81c"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KG9J4Nxzmw9otMp8YQ58izbDXIYp.xml" value="664ffd6c"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/QMJD9OLFzxcTTbPOoh-ahQ4zTRUd.xml" value="8f31f7d0"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/QMJD9OLFzxcTTbPOoh-ahQ4zTRUp.xml" value="42d62ace"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="8f31f7d0"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="3a94f2aa"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/nAuCh6hBCL3NfHNxzZYtJVA3K1Ad.xml" value="d832e81c"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/nAuCh6hBCL3NfHNxzZYtJVA3K1Ap.xml" value="8364c176"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="8f31f7d0"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="880399bf"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="2bccc4a9"/>
+        <File path="resources/project/root/6xhH2l9GP9loT6TdFn_Mo65sDHgd.xml" value="a26018c6"/>
+        <File path="resources/project/root/6xhH2l9GP9loT6TdFn_Mo65sDHgp.xml" value="d45a590f"/>
+        <File path="resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="5fdcc4c2"/>
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="388fec68"/>
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="4efa4a8e"/>
+        <File path="resources/project/root/HoHDHQ_WvHAAKj5aJOrvrg_vpt8p.xml" value="ac673afa"/>
+        <File path="resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="50cc02d5"/>
+        <File path="resources/project/root/LUgSFhI3RPozNzNcutxrczVe6f0p.xml" value="3617466d"/>
+        <File path="resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="89ff8677"/>
+        <File path="resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kd.xml" value="3e8a0259"/>
+        <File path="resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="6df00d45"/>
+        <File path="resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="9be47c11"/>
+        <File path="resources/project/rootd.xml" value="617845d7"/>
+        <File path="resources/project/rootp.xml" value="d832e81c"/>
+        <File path="resources/project/root" value="-1"/>
+        <File path="resources/project/uuid-6df3a3f4-ae46-4c63-8a73-6c2d779a68ec.xml" value="e90fe5de"/>
+        <File path="resources/project" value="-1"/>
+        <File path="resources" value="-1"/>
+        <File path="slprj/_jitprj/jitEngineAccessInfo.mat" value="63450b05"/>
+        <File path="slprj/_jitprj/sRcytfTtgrgP7B96TUHksJD.l" value="18316009"/>
+        <File path="slprj/_jitprj/sRcytfTtgrgP7B96TUHksJD.mat" value="d8ed5648"/>
+        <File path="slprj/_jitprj" value="-1"/>
+        <File path="slprj/_sfprj/EMLReport/MYrzH38JGgiUxsJTuHyZsH.mat" value="293faa33"/>
+        <File path="slprj/_sfprj/EMLReport/MYrzH38JGgiUxsJTuHyZsH/report.mldatx" value="6c61a640"/>
+        <File path="slprj/_sfprj/EMLReport/MYrzH38JGgiUxsJTuHyZsH" value="-1"/>
+        <File path="slprj/_sfprj/EMLReport/emlReportAccessInfo.mat" value="221761df"/>
+        <File path="slprj/_sfprj/EMLReport/sRcytfTtgrgP7B96TUHksJD.mat" value="53b05ccf"/>
+        <File path="slprj/_sfprj/EMLReport/sRcytfTtgrgP7B96TUHksJD" value="-1"/>
+        <File path="slprj/_sfprj/EMLReport" value="-1"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a/_self/sfun/info/binfo.mat" value="731425b3"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a/_self/sfun/info" value="-1"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a/_self/sfun" value="-1"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a/_self" value="-1"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a/amsi_serial.mat" value="6ec1ddb7"/>
+        <File path="slprj/_sfprj/FCBATPWT_10_r22a" value="-1"/>
+        <File path="slprj/_sfprj/precompile/1EsL0hvB1CjgCOUkImKZ0D.mat" value="6b3a2e40"/>
+        <File path="slprj/_sfprj/precompile/autoInferAccessInfo.mat" value="16cfc83e"/>
+        <File path="slprj/_sfprj/precompile" value="-1"/>
+        <File path="slprj/_sfprj" value="-1"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/FCBATPWT_10_r22a_SolverChangeInfo.mat" value="b088aae3"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/FCBATPWT_10_r22a_instrumentation_settings.mat" value="c96d7e51"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/FCBATPWT_10_r22a_top_vm.bc" value="eddc79a3"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/amsi_serial.mat" value="520ef0c6"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/rtwgen_tlc" value="-1"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/tmwinternal/simulink_cache.xml" value="e05d9775"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a/tmwinternal" value="-1"/>
+        <File path="slprj/accel/FCBATPWT_10_r22a" value="-1"/>
+        <File path="slprj/accel" value="-1"/>
+        <File path="slprj/sim/FCBATPWT_10_r22a/tmwinternal/minfo.mat" value="b71c2d02"/>
+        <File path="slprj/sim/FCBATPWT_10_r22a/tmwinternal" value="-1"/>
+        <File path="slprj/sim/FCBATPWT_10_r22a" value="-1"/>
+        <File path="slprj/sim/varcache/Battery_Test_Bench/checksumOfCache.mat" value="4712b4f4"/>
+        <File path="slprj/sim/varcache/Battery_Test_Bench/tmwinternal/simulink_cache.xml" value="8521e4c7"/>
+        <File path="slprj/sim/varcache/Battery_Test_Bench/tmwinternal" value="-1"/>
+        <File path="slprj/sim/varcache/Battery_Test_Bench/varInfo.mat" value="cc44445b"/>
+        <File path="slprj/sim/varcache/Battery_Test_Bench" value="-1"/>
+        <File path="slprj/sim/varcache/Cell_Test_bench/checksumOfCache.mat" value="34279a42"/>
+        <File path="slprj/sim/varcache/Cell_Test_bench/tmwinternal/simulink_cache.xml" value="13f80471"/>
+        <File path="slprj/sim/varcache/Cell_Test_bench/tmwinternal" value="-1"/>
+        <File path="slprj/sim/varcache/Cell_Test_bench/varInfo.mat" value="e21c80e1"/>
+        <File path="slprj/sim/varcache/Cell_Test_bench" value="-1"/>
+        <File path="slprj/sim/varcache/FCBATPWT_10_r22a/checksumOfCache.mat" value="a9adedba"/>
+        <File path="slprj/sim/varcache/FCBATPWT_10_r22a/tmwinternal/simulink_cache.xml" value="7fbddca1"/>
+        <File path="slprj/sim/varcache/FCBATPWT_10_r22a/tmwinternal" value="-1"/>
+        <File path="slprj/sim/varcache/FCBATPWT_10_r22a/varInfo.mat" value="5f3fcb12"/>
+        <File path="slprj/sim/varcache/FCBATPWT_10_r22a" value="-1"/>
+        <File path="slprj/sim/varcache/Fuel_Cell_test_bench/checksumOfCache.mat" value="efe8c95a"/>
+        <File path="slprj/sim/varcache/Fuel_Cell_test_bench/tmwinternal/simulink_cache.xml" value="bf9c7f77"/>
+        <File path="slprj/sim/varcache/Fuel_Cell_test_bench/tmwinternal" value="-1"/>
+        <File path="slprj/sim/varcache/Fuel_Cell_test_bench/varInfo.mat" value="3a1784e7"/>
+        <File path="slprj/sim/varcache/Fuel_Cell_test_bench" value="-1"/>
+        <File path="slprj/sim/varcache" value="-1"/>
+        <File path="slprj/sim" value="-1"/>
+        <File path="slprj/sl_proj.tmw" value="74c2d0d3"/>
+        <File path="slprj" value="-1"/>
+        <File path="spinfo/rule_for_FCBATPWT_10_r22a.mat" value="391028ef"/>
+        <File path="spinfo" value="-1"/>
+        <File path="test-bench/.gitattributes" value="d53a431e"/>
+        <File path="test-bench/.gitignore" value="938b338e"/>
+        <File path="test-bench/00 - Scripts/Constants.m" value="5ffe6fa1"/>
+        <File path="test-bench/00 - Scripts/Test_bench_setup.asv" value="92871753"/>
+        <File path="test-bench/00 - Scripts/Test_bench_setup.m" value="a239de68"/>
+        <File path="test-bench/00 - Scripts" value="-1"/>
+        <File path="test-bench/01 - Dutycycles/DutyCycles.xlsx" value="fcc1fe59"/>
+        <File path="test-bench/01 - Dutycycles/Test_signal.mat" value="ec7f3cb8"/>
+        <File path="test-bench/01 - Dutycycles" value="-1"/>
+        <File path="test-bench/Current_Power_Load.slx" value="dbd02a9f"/>
+        <File path="test-bench/DCPOWER_LOAD_PROFILES.slx" value="1d99e705"/>
+        <File path="test-bench/DCPWRLoad.png" value="bc277eb9"/>
+        <File path="test-bench/DCPWRLoad_small.png" value="c8c4812f"/>
+        <File path="test-bench/DC_Load_front.jpg" value="90c09b28"/>
+        <File path="test-bench/Test_bench.prj" value="fe84b66d"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IAfrGtns4BDLR7NZI10KAuJdSpAd.xml" value="c5810e76"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/IAfrGtns4BDLR7NZI10KAuJdSpAp.xml" value="a3eb586a"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/QsI48TLqkQc7Gl_73NhNZS_hlb0d.xml" value="50727024"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/QsI48TLqkQc7Gl_73NhNZS_hlb0p.xml" value="92657343"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/ym4d3cl2HGVBNtnQPZlRssfOrDUd.xml" value="86d008d0"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/ym4d3cl2HGVBNtnQPZlRssfOrDUp.xml" value="4255ae38"/>
+        <File path="test-bench/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/2JlInVA-Ke1_ETj312uVmgw0Lo4d.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/2JlInVA-Ke1_ETj312uVmgw0Lo4p.xml" value="60a23a3a"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/ZkawFvMxSPK1ZFVsyTBvIIEx2G0d.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/ZkawFvMxSPK1ZFVsyTBvIIEx2G0p.xml" value="6aa6c93d"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/s1aDkaL_1yxwW8ufwejr8hzWA8kd.xml" value="ea65cf7"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4/s1aDkaL_1yxwW8ufwejr8hzWA8kp.xml" value="d98a0c54"/>
+        <File path="test-bench/resources/project/EmqWm-mpI8367LG4aUR7MkQUpH4" value="-1"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="6f44c339"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="8ec7761"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="31e4aeae"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="7da44016"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="61c82899"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="2b42a78c"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="a6e6bc42"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="test-bench/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="test-bench/resources/project/Project.xml" value="1246079c"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/E0ON9QIYwq78ThpAzZkf9NkrnIYd.xml" value="ea65cf7"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/E0ON9QIYwq78ThpAzZkf9NkrnIYp.xml" value="e359a43f"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/MHPvwcccaq4KbaabrKce5RmQc-wp.xml" value="60a23a3a"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Oy9HThO9aGFnKVtklWHn4Co4A_Ed.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/Oy9HThO9aGFnKVtklWHn4Co4A_Ep.xml" value="c036d155"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/R4FpokisNW06Fdq19J8nrpUAkXUd.xml" value="ea65cf7"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE/R4FpokisNW06Fdq19J8nrpUAkXUp.xml" value="4e5f407c"/>
+        <File path="test-bench/resources/project/bAbFCLT9DP4wmYHR80zTuDlmxtE" value="-1"/>
+        <File path="test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="ecb9c290"/>
+        <File path="test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="test-bench/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk/c9qRR7nqW7Zdb9eTzCeqMhnGpaod.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk/c9qRR7nqW7Zdb9eTzCeqMhnGpaop.xml" value="943c2b48"/>
+        <File path="test-bench/resources/project/l9vhJwXoERc73TLF7LRrk9fcDPk" value="-1"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5_pF7rlddEV2c7nVl3bevnLaqgkd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/5_pF7rlddEV2c7nVl3bevnLaqgkp.xml" value="c83c5899"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/EmqWm-mpI8367LG4aUR7MkQUpH4d.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/EmqWm-mpI8367LG4aUR7MkQUpH4p.xml" value="532fb5cb"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TMK4UzWHdRLhy_w-CHt9y11Q8XAp.xml" value="c3e12844"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ZzF_HdewTLpCKf_QkpUIRK0eHyUd.xml" value="ea65cf7"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ZzF_HdewTLpCKf_QkpUIRK0eHyUp.xml" value="55d9c359"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/bAbFCLT9DP4wmYHR80zTuDlmxtEp.xml" value="6e7420fa"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ekjMwUKYQAIdscvWYaP7nz3RkTYd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ekjMwUKYQAIdscvWYaP7nz3RkTYp.xml" value="28616ad4"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/l9vhJwXoERc73TLF7LRrk9fcDPkd.xml" value="ea65cf7"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/l9vhJwXoERc73TLF7LRrk9fcDPkp.xml" value="895043"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkd.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/qD-kr16wmwlzR-nIg1IG_vvRrWkp.xml" value="e98115fd"/>
+        <File path="test-bench/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="test-bench/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="aedb31da"/>
+        <File path="test-bench/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="test-bench/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="d52902e3"/>
+        <File path="test-bench/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="test-bench/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="test-bench/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="ac054281"/>
+        <File path="test-bench/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="test-bench/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="test-bench/resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project/root" value="-1"/>
+        <File path="test-bench/resources/project/uuid-bca33bb9-19b7-42e1-bd41-1b3560c8135f.xml" value="b62b63f9"/>
+        <File path="test-bench/resources/project" value="-1"/>
+        <File path="test-bench/resources" value="-1"/>
+        <File path="test-bench" value="-1"/>
+    </Files>
+    <MetadataNode>
+        <path value="Extensions:type:Root">
+            <path value="DependencyAnalysis:type:Extension">
+                <path value="ExternalFiles:type:Extension">
+                    <node name="Info">
+                        <entry value="C:\Users\thomazo\OneDrive - FORSEE POWER\Documents Forsee\04 - Modelisation\System Modeling Platform\FC+REESS\4CAST - FC+REESS\00 - Models\FCBATPWT_10_r21b_simscape_foundation_JT.slx" key="File0"/>
+                        <entry value="C:\Users\thomazo\OneDrive - FORSEE POWER\Documents Forsee\04 - Modelisation\System Modeling Platform\FC+REESS\4CAST - FC+REESS\00 - Models\FCBATPWT_20.slx" key="File1"/>
+                        <entry value="C:\Users\thomazo\OneDrive - FORSEE POWER\Documents Forsee\04 - Modelisation\System Modeling Platform\FC+REESS\4CAST - FC+REESS\00 - Models\FCBATPWT_10.slx" key="File2"/>
+                        <entry value="C:\Users\thomazo\OneDrive - FORSEE POWER\Documents Forsee\04 - Modelisation\System Modeling Platform\FC+REESS\4CAST - FC+REESS\00 - Models\FCBATPWT_20_r21b.slx" key="File3"/>
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="FC+REESS" key="Name"/>
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <node name="Category">
+                <entry value="FileClassCategory" key="Location"/>
+                <node name="Info">
+                    <entry value="None" key="DataType"/>
+                    <entry value="Classification" key="Name"/>
+                    <entry value="1" key="ReadOnly"/>
+                    <entry value="1" key="SingleValued"/>
+                </node>
+                <node name="Label">
+                    <entry value="derived" key="Location"/>
+                    <node name="Info">
+                        <entry value="Derived" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="artifact" key="Location"/>
+                    <node name="Info">
+                        <entry value="Artifact" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="design" key="Location"/>
+                    <node name="Info">
+                        <entry value="Design" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="convenience" key="Location"/>
+                    <node name="Info">
+                        <entry value="Convenience" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="none" key="Location"/>
+                    <node name="Info">
+                        <entry value="None" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="test" key="Location"/>
+                    <node name="Info">
+                        <entry value="Test" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+                <node name="Label">
+                    <entry value="other" key="Location"/>
+                    <node name="Info">
+                        <entry value="Other" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </node>
+            </node>
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType"/>
+                    <entry value="Classification" key="Name"/>
+                    <entry value="1" key="ReadOnly"/>
+                    <entry value="1" key="SingleValued"/>
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name"/>
+                        <entry value="READ_ONLY" key="ReadOnly"/>
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints"/>
+        <path value="Root:type:EnvironmentCustomizations">
+            <node name="Command">
+                <entry value="environment.loadSimulink" key="Location"/>
+                <node name="Info">
+                    <entry value="true" key="Value"/>
+                </node>
+            </node>
+            <path value="environment.loadSimulink:type:Command">
+                <node name="Info">
+                    <entry value="true" key="Value"/>
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Extensions"/>
+        <path value="Root:type:Files">
+            <path value=".gitattributes:type:File">
+                <node name="Info"/>
+            </path>
+            <path value=".gitignore:type:File">
+                <node name="Info"/>
+            </path>
+            <path value="00 - Models:type:File">
+                <node name="Info"/>
+                <path value="05 - Cooling systems:type:File">
+                    <node name="Info"/>
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info"/>
+                    </path>
+                    <path value="BTMS.slx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID"/>
+                                <node name="Label">
+                                    <entry value="design" key="UUID"/>
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="BTMS_Grayson.png:type:File">
+                        <node name="Info"/>
+                    </path>
+                    <path value="FCTMS.slx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID"/>
+                                <node name="Label">
+                                    <entry value="design" key="UUID"/>
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="FCTMS_Grayson.png:type:File">
+                        <node name="Info"/>
+                    </path>
+                    <path value="Thermodynamic_loop.png:type:File">
+                        <node name="Info"/>
+                    </path>
+                    <path value="heat_exchanger_schematic.jpg:type:File">
+                        <node name="Info"/>
+                    </path>
+                </path>
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info"/>
+                </path>
+                <path value="FCBATPWT_10_r22a.slx:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID"/>
+                            <node name="Label">
+                                <entry value="design" key="UUID"/>
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+            <path value="01 - Scripts:type:File">
+                <node name="Info"/>
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info"/>
+                </path>
+                <path value="Constants_def.m:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID"/>
+                            <node name="Label">
+                                <entry value="design" key="UUID"/>
+                            </node>
+                        </node>
+                    </node>
+                </path>
+                <path value="FCBATPWT_Data.m:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID"/>
+                            <node name="Label">
+                                <entry value="design" key="UUID"/>
+                            </node>
+                        </node>
+                    </node>
+                </path>
+                <path value="Git-startup.bat:type:File">
+                    <node name="Info"/>
+                </path>
+                <path value="System_configuration.m:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID"/>
+                            <node name="Label">
+                                <entry value="design" key="UUID"/>
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+            <path value="README.md:type:File">
+                <node name="Info"/>
+            </path>
+            <path value="Startup_prj.m:type:File">
+                <node name="Info"/>
+            </path>
+        </path>
+        <path value="Root:type:ProjectData"/>
+        <path value="Root:type:ProjectPath">
+            <path value="03835634-ab4c-4219-bf36-c6ad6beaf503:type:Reference">
+                <node name="Info">
+                    <entry value="00 - Models" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="5fa2b1cc-4a1b-4191-821f-b9b9eb59e961:type:Reference">
+                <node name="Info">
+                    <entry value="00 - Models/05 - Cooling systems" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="613e14e7-34a9-4cec-a17e-f186ee7f986d:type:Reference">
+                <node name="Info">
+                    <entry value="01 - Scripts" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="8240e63d-a1e3-413f-8ee1-91adce9b33f5:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:References">
+            <path value="8617e4d1-70c6-413a-ae5a-defb25a9dd5d:type:Reference">
+                <node name="Info">
+                    <entry value="controllers-library" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="9d7f08e5-c2b6-4ff4-939c-51585903d0da:type:Reference">
+                <node name="Info">
+                    <entry value="Battery_Pack_Library" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="a84422c1-a15b-4900-8ab2-b699dca32098:type:Reference">
+                <node name="Info">
+                    <entry value="Scopes_Library" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="d44ff528-8fb1-453c-ab4f-36c2231f58ed:type:Reference">
+                <node name="Info">
+                    <entry value="Fuel_Cell_Library" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+            <path value="f97e877d-2cd9-4df4-ab33-a9dcee451ccb:type:Reference">
+                <node name="Info">
+                    <entry value="test-bench" key="Ref"/>
+                    <entry value="Relative" key="Type"/>
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Date value="15 June 2022 17:37:22"/>
+</Info>
